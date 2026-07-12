@@ -15,6 +15,7 @@ public class CountDigit {
 
         }
         System.out.println("digit=" +digitcount);
+        sc.close();
             
             
             
